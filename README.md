@@ -9,3 +9,6 @@
 ### 239 - 0x02-python-import_modules
 * [project](https://alx-intranet.hbtn.io/projects/239)
 * [directory](https://github.com/girumtim/alx-higher_level_programming/tree/main/0x02-python-import_modules)
+### 241 - 0x03-python-data_structures
+* [project](https://alx-intranet.hbtn.io/projects/241)
+* [directory](https://github.com/girumtim/alx-higher_level_programming/tree/main/0x03-python-data_structures)
