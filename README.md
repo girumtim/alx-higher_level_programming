@@ -1,4 +1,11 @@
 # alx-higher_level_programming
+## Requirements
+### Python Scripts
+* All codes are interpreted on Ubuntu 20.04 LTS using [python3](https://docs.python.org/3.8/) (version 3.8.5)
+* All codes are checked using [pycodestyle](https://pypi.org/project/pycodestyle/) (version 2.8.x)
+### C Scripts
+* All codes are compiled on Ubuntu 20.04 LTS using `gcc -gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
+* All codes are checked using [Betty](https://github.com/holbertonschool/Betty) linter (Holberton School's C coding style checker)
 ## Projects
 ### 231 - 0x00-python-hello_world
 * [project](https://alx-intranet.hbtn.io/projects/231)
